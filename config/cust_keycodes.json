@@ -1,0 +1,19 @@
+[
+	{
+		"names": [
+			"LEFT_COMMAND (GRAVE)"
+		],
+		"description": "LEFT_COMMAND (GRAVE)",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
